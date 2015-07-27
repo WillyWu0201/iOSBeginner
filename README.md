@@ -7,6 +7,7 @@
 4. [Standford 2015 iOS讀書會 week2](http://www.slideshare.net/deeplovepan/standford-2015-ios-week2-1-applying-mvc-2-more-swift-and-foundation-frameworks) : 1. Applying MVC 2. More Swift and Foundation Frameworks
 5. [Standford 2015 iOS讀書會 week3](http://www.slideshare.net/deeplovepan/standford-2015-week3-objectivec-compatibility-property-list-views) : Objective-C Compatibility, Property List, Views
 6. [iOS9AdaptationTips](https://github.com/ChenYilong/iOS9AdaptationTips) : iOS9适配系列教程
+7. [iOS Programming Course](http://www.appcoda.com/ios-programming-course/) : 英文教學網站
 
 #### 其他人收集的資源清單
 1. [iOS 開發者的 15 個閱讀清單](http://punnode.com/archives/28835)
